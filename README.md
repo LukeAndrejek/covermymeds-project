@@ -2,7 +2,7 @@
 
 This directory contains files in which I build and analyze a model of prior authorization (PA) volume from a dataset provided by CoverMyMeds.
 
-CoverMyMeds is a healthcare company whose products include an electronic solution for filling out a PA, which is a form that patients can use to dispute an insurance company's rejection of a medication insurance claim. I chose to predict PA volume because CoverMyMeds uses PA volume as a predictor of revenue. Therefore, PA volume forecasting can directly benefit finanical forecasting.
+CoverMyMeds is a healthcare company whose products include an electronic solution for filling out a PA, which is a form that patients can use to dispute an insurance company's rejection of a medication insurance claim. I chose to predict PA volume because CoverMyMeds uses PA volume as a predictor of revenue. Therefore, PA volume forecasting can directly benefit financial forecasting.
 
 Here is a video explaining my model:
 INSERT LINK
